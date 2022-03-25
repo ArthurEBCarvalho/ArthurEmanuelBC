@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Arthur Brandão!
+## 👋 Hello, I am Arthur Brandão!
 <div>
   <a href="https://github.com/ArthurEmanuelBC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurEmanuelBC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
